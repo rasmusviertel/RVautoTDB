@@ -1,0 +1,4 @@
+GARMIN_USER=din@email.se
+GARMIN_PASS=ditt_losenord
+MAKRO_EXCEL=namn_på_din_excelmakrofil.xlsm
+DAYS_TO_FILL=7
