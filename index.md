@@ -7,7 +7,7 @@ Klicka på länkarna nedan för att öppna eller ladda ner dem.
 
 - [⚙️ inställningar.ini](./inställningar.ini)
 - [📊 import_garmin_to_excel.py](./import_garmin_to_excel.py)
-- [💻 RVautoTDB.py](./RVautoTDB.py)
+- [💻 RVautoTDB.zip](./RVautoTDB.zip)
 
 ---
 
