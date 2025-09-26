@@ -1,25 +1,25 @@
 # Mitt Projekt
 
-Välkommen till mitt projekt! Här kan du ladda ner olika filer direkt från GitHub.
+Välkommen! Här kan du ladda ner tre filer som ingår i projektet.  
+Klicka på länkarna nedan för att öppna eller ladda ner dem.
 
 ## Nedladdningar
 
-- [📄 Fil 1 – Dokumentation (PDF)](./files/dokumentation.pdf)
-- [⚙️ Fil 2 – Exempeldata (CSV)](./files/data.csv)
-- [💻 Fil 3 – Programkod (ZIP)](./files/kod.zip)
-
-Klicka på länkarna för att ladda ner filerna.
+- [⚙️ inställningar.txt](./inställningar.txt)
+- [📊 import_garmin_to_excel.py](./import_garmin_to_excel.py)
+- [💻 fyll_i_inställningar.py](./fyll_i_inställningar.py)
 
 ---
 
-## Hur du använder filerna
+## Användning
 
-1. Ladda ner de filer du behöver via länkarna ovan.  
-2. Följ instruktionerna i dokumentationen för att komma igång.  
-3. Om du vill bidra, öppna en *pull request* eller skapa en *issue*.  
+1. **Ladda ner filerna** via länkarna ovan.  
+2. Redigera `inställningar.txt` för att lägga in dina egna uppgifter.  
+3. Kör `fyll_i_inställningar.py` för att automatiskt fylla i inställningarna.  
+4. Kör `import_garmin_to_excel.py` för att importera dina Garmin-data till Excel.  
 
 ---
 
 ## Kontakt
 
-Om du har frågor, kontakta mig via [GitHub Issues](../../issues).
+Har du frågor eller förslag? Skapa en *issue* i detta repo.
