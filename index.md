@@ -5,7 +5,7 @@ Klicka på länkarna nedan för att öppna eller ladda ner dem.
 
 ## Nedladdningar
 
-- [⚙️ inställningar.txt](./inställningar.txt)
+- [⚙️ inställningar.txt](https://raw.githubusercontent.com/rasmusviertel/RVautoTDB/refs/heads/main/inst%C3%A4llningar.txt)
 - [📊 import_garmin_to_excel.py](./import_garmin_to_excel.py)
 - [💻 RVautoTDB.py](./RVautoTDB.py)
 
