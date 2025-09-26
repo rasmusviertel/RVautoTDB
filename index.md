@@ -14,7 +14,7 @@ Se till att ha python nerladdat från Microsoft Store innan du fortsätter.
 
 ### Ladda ner här:  [💻 RVautoTDB.zip](./RVautoTDB.zip)
 
-###### Kör aldrig endast import_garmin_to_excel.py!
+###### Viktigt! Kör aldrig endast import_garmin_to_excel.py!
 
 ---
 
