@@ -10,6 +10,8 @@ Se till att ha python nerladdat från Microsoft Store innan du fortsätter.
 2. Öppna inställningar.txt och fyll i din GarminConnect inloggning, filnamn på träningsdagboken och andal dagar du vill fylla i.
 3. Öppna RVautoTDB.py med python och följ instuktionerna.
 
+###### Rekomendation är att skapa en kopia av träningsdagboken innan första användning!
+
 ### Ladda ner här:  [💻 RVautoTDB.zip](./RVautoTDB.zip)
 
 ---
