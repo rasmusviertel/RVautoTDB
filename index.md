@@ -24,3 +24,6 @@ Har du frågor eller förslag? rasmus@viertel.se
 
 ##
 v 1.7.3 20250920
+
+
+[💻 RVautoTDB.zip](./import_garmin_to_excel_vAlva.py) 
