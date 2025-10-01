@@ -24,7 +24,3 @@ Har du frågor eller förslag? rasmus@viertel.se
 
 ##
 v 1.7.3 20250920
-
-##### Alvas variant 
-
-[💻 vAlva](./import_garmin_to_excel_vAlva.py) 
