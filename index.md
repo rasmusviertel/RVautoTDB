@@ -27,4 +27,4 @@ v 1.7.3 20250920
 
 ##### Alvas variant 
 
-[💻 vAlva](./import_excel_to_garmin_vAlva.py) 
+[💻 vAlva](./import_garmin_to_excel_vAlva.py) 
