@@ -4,10 +4,10 @@ from garminconnect import Garmin
 from datetime import datetime
 
 
-# Läs in Garmin Connect-uppgifter från inställningar.ini
+# Läs in Garmin Connect-uppgifter från inställningar.txt
 import configparser
 import os
-settings_path = os.path.join(os.path.dirname(__file__), 'inställningar.ini')
+settings_path = os.path.join(os.path.dirname(__file__), 'inställningar.txt')
 
 # Läs in inställningar
 GARMIN_USER = None
@@ -26,7 +26,7 @@ if os.path.exists(settings_path):
                 except Exception:
                     DAYS_TO_FILL = 7
 if not GARMIN_USER or not GARMIN_PASS:
-    raise Exception('Fyll i GARMIN_USER och GARMIN_PASS i inställningar.ini')
+    raise Exception('Fyll i GARMIN_USER och GARMIN_PASS i inställningar.txt')
 
 EXCEL_FILE = "garmin_traningspass.xlsx"
 
@@ -149,7 +149,7 @@ if os.path.exists(settings_path):
             if line.startswith('MAKRO_EXCEL='):
                 MAKRO_EXCEL = line.strip().split('=', 1)[1]
 if not MAKRO_EXCEL:
-    print('FEL: Skriv in korrekt filnamn för xlsm i inställningar.ini, t.ex. MAKRO_EXCEL=2024-2025 dagbok test.xlsm')
+    print('FEL: Skriv in korrekt filnamn för xlsm i inställningar.txt, t.ex. MAKRO_EXCEL=2024-2025 dagbok test.xlsm')
     exit(1)
 makro_excel = MAKRO_EXCEL
 if os.path.exists(makro_excel):
