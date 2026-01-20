@@ -13,6 +13,7 @@ Se till att ha python nerladdat från Microsoft Store innan du fortsätter.
 ###### Rekomendation är att skapa en kopia av träningsdagboken innan första användning!
 
 ### Ladda ner här:  [💻 RVautoTDB.zip](./RVautoTDB.zip) 
+### Ladda ner här:  [💻 RVautoTDB.zip](./TDB26.zip) 
 
 ###### Viktigt! Kör aldrig endast import_garmin_to_excel.py!
 
